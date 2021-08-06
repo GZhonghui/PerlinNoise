@@ -1,1 +1,3 @@
-hate hithub
+# PerlinNoise
+
+![Noise](readMe/Noise.jpg)
